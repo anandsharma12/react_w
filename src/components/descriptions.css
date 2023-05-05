@@ -34,4 +34,20 @@
 
         grid-template-columns: 1fr 1fr;
     }
+
+}
+@media screen and (max-width: 459px) {
+    .section__inputs>button {
+         
+        padding: 5px 20px;
+    }
+    
+}
+
+@media screen and (max-width: 398px) {
+    .section__inputs>button {
+         
+        padding: 5px 10px;
+    }
+    
 }
